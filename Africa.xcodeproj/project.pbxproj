@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		572F37312AEBCA27002E2CDD /* LeftGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 572F37302AEBCA27002E2CDD /* LeftGridView.swift */; };
+		572F37332AEBCA47002E2CDD /* RightGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 572F37322AEBCA47002E2CDD /* RightGridView.swift */; };
 		573905E92AD3181200BB071B /* InsetFactsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573905E82AD3181200BB071B /* InsetFactsView.swift */; };
 		5782E8762AD96A850000A23E /* InsetMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5782E8752AD96A850000A23E /* InsetMapView.swift */; };
 		5782E8792ADAD4880000A23E /* ExternalWebLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5782E8782ADAD4880000A23E /* ExternalWebLinkView.swift */; };
@@ -70,6 +72,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		572F37302AEBCA27002E2CDD /* LeftGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeftGridView.swift; sourceTree = "<group>"; };
+		572F37322AEBCA47002E2CDD /* RightGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RightGridView.swift; sourceTree = "<group>"; };
 		573905E82AD3181200BB071B /* InsetFactsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetFactsView.swift; sourceTree = "<group>"; };
 		5782E8752AD96A850000A23E /* InsetMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetMapView.swift; sourceTree = "<group>"; };
 		5782E8782ADAD4880000A23E /* ExternalWebLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWebLinkView.swift; sourceTree = "<group>"; };
@@ -270,6 +274,8 @@
 				57DECD172AE65CD500BBBB70 /* VideoPlayerView.swift */,
 				57DECD1E2AE66D3200BBBB70 /* MapAnnotationView.swift */,
 				57B3681D2AE984F700579980 /* MotionAnimationView.swift */,
+				572F37302AEBCA27002E2CDD /* LeftGridView.swift */,
+				572F37322AEBCA47002E2CDD /* RightGridView.swift */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -440,6 +446,7 @@
 				57B7F2002AE156FB00F70FFA /* VideoListItemView.swift in Sources */,
 				57AAB35D2A80F08A004FC732 /* ContentView.swift in Sources */,
 				57DF044D2A8E4BE3007EF968 /* DetailView.swift in Sources */,
+				572F37312AEBCA27002E2CDD /* LeftGridView.swift in Sources */,
 				57ED2C492A892FCE00E8E844 /* AnimalListItemView.swift in Sources */,
 				57ED2C442A8909AC00E8E844 /* CodableBundleExtention.swift in Sources */,
 				57AAB3AD2A8107DD004FC732 /* MainView.swift in Sources */,
@@ -457,6 +464,7 @@
 				57DECD1D2AE66BCF00BBBB70 /* LocationModel.swift in Sources */,
 				57AAB3A52A8106E2004FC732 /* VideoListView.swift in Sources */,
 				57DF04512A8F8ACF007EF968 /* InsetGalleryView.swift in Sources */,
+				572F37332AEBCA47002E2CDD /* RightGridView.swift in Sources */,
 				57AAB3AB2A8107C2004FC732 /* GalleryView.swift in Sources */,
 				57B3681E2AE984F700579980 /* MotionAnimationView.swift in Sources */,
 				57DF044F2A8F87A8007EF968 /* HeadingView.swift in Sources */,
